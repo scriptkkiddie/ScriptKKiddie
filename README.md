@@ -25,8 +25,8 @@ Here are some ideas to get you started:
   <a href="http://twitter.com/ScriptKKiddie">
     <img src="https://img.shields.io/twitter/follow/ScriptKKiddie?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-  <a href="http://youtube.com/channel/UC_yMxKNzIGAWAMn2DBIVTFg?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/channel/UC_yMxKNzIGAWAMn2DBIVTFg?label=YouTube&logo=YouTube&style=for-the-badge" />
+  <a href="http://youtube.com/UC_yMxKNzIGAWAMn2DBIVTFg?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/views/UC_yMxKNzIGAWAMn2DBIVTFg?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
 </p>
 <h4 align="center"><img src="https://github-readme-stats.vercel.app/api?username=ScriptKKiddie&show_icons=true&theme=tokyonight" /></h4>
