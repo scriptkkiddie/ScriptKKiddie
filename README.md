@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 -->
 Building [ScriptKkiddie.org](https://scriptkkiddie.org) 💚
 
+Check my GIST [here](https://gist.github.com/ScriptKKiddie)
+
 <p align="center">
   <a href="https://github.com/ScriptKKiddie?tab=followers">
     <img src="https://img.shields.io/github/followers/ScriptKKiddie?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
