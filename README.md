@@ -26,6 +26,10 @@ Check my GIST [here](https://gist.github.com/ScriptKKiddie)
   <a href="http://twitter.com/ScriptKKiddie">
     <img src="https://img.shields.io/twitter/follow/ScriptKKiddie?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
+  <a href="http://github.com/sponsors/ScriptKKiddie">
+    <img src="https://img.shields.io/github/sponsors/ScriptKKiddie?style=for-the-badge" />
+  </a>
+  
   <!--
   <a href="http://youtube.com/channel/UC_yMxKNzIGAWAMn2DBIVTFg?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/views/UC_yMxKNzIGAWAMn2DBIVTFg?label=YouTube&logo=YouTube&style=for-the-badge" />
