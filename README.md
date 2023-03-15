@@ -23,9 +23,6 @@ Check my GIST [here](https://gist.github.com/ScriptKKiddie)
   <a href="https://github.com/ScriptKKiddie?tab=followers">
     <img src="https://img.shields.io/github/followers/ScriptKKiddie?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/ScriptKKiddie">
-    <img src="https://img.shields.io/twitter/follow/ScriptKKiddie?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
   <a href="http://github.com/sponsors/ScriptKKiddie">
     <img src="https://img.shields.io/github/sponsors/ScriptKKiddie?style=for-the-badge" />
   </a>
