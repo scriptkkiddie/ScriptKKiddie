@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Building [ScriptKkiddie.org](https://scriptkkiddie.org) | [@hackers-collective](https://github.com/hackers-collective) 💚
+Building [@hackers-collective](https://github.com/hackers-collective) 💚
 
 Check my GIST [here](https://gist.github.com/ScriptKKiddie)
 
