@@ -1,7 +1,4 @@
-
-<!--
-
-### Hi there 👋
+<!-- ### Hi there 👋
 **ScriptKKiddie/ScriptKKiddie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,8 +10,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
 Building [@hackers-collective](https://github.com/hackers-collective) 💚
 
 Check my GIST [here](https://gist.github.com/ScriptKKiddie)
@@ -35,6 +32,7 @@ Check my GIST [here](https://gist.github.com/ScriptKKiddie)
 </p>
 <h4 align="center"><img src="https://github-readme-stats.vercel.app/api?username=ScriptKKiddie&show_icons=true&theme=tokyonight" /></h4>
 
-              
+## My Projects
 
+- **Instagram Clone:** An exciting front-end project that replicates the popular social media platform, Instagram. Explore the project [here](https://apps.shobhitsharma.net/Instagram/).
 
