@@ -1,38 +1,24 @@
-<!-- ### Hi there 👋
-**ScriptKKiddie/ScriptKKiddie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋
 
-Here are some ideas to get you started:
+I'm ScriptKkiddie, a passionate developer and member of the [@hackers-collective](https://github.com/hackers-collective) community. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+## 🌱 About Me
 
-Building [@hackers-collective](https://github.com/hackers-collective) 💚
+I love building exciting projects and exploring new technologies. Currently, I'm working on enhancing my skills and knowledge in various areas of software development.
 
-Check my GIST [here](https://gist.github.com/ScriptKKiddie)
+## 💼 Projects
+
+Here are some of my notable projects:
+
+- [Instagram Clone](https://apps.shobhitsharma.net/Instagram/): A front-end project that replicates the popular social media platform, Instagram. Explore the project to see the beautiful user interface and interactive features.
+
+## 📫 Connect with Me
+
+- Check out my [GIST](https://gist.github.com/scriptkkiddie) for snippets and useful code.
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/scriptkkiddie) for professional networking opportunities.
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ScriptKKiddie?tab=followers">
-    <img src="https://img.shields.io/github/followers/ScriptKKiddie?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="http://github.com/sponsors/ScriptKKiddie">
-    <img src="https://img.shields.io/github/sponsors/ScriptKKiddie?style=for-the-badge" />
-  </a>
-  
-  <!--
-  <a href="http://youtube.com/channel/UC_yMxKNzIGAWAMn2DBIVTFg?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/UC_yMxKNzIGAWAMn2DBIVTFg?label=YouTube&logo=YouTube&style=for-the-badge" />
-  </a>
--->
+  <img src="https://github-readme-stats.vercel.app/api?username=scriptkkiddie&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-<h4 align="center"><img src="https://github-readme-stats.vercel.app/api?username=ScriptKKiddie&show_icons=true&theme=tokyonight" /></h4>
-
-## My Projects
-
-- **Instagram Clone:** An exciting front-end project that replicates the popular social media platform, Instagram. Explore the project [here](https://apps.shobhitsharma.net/Instagram/).
-
