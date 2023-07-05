@@ -24,3 +24,7 @@ Here are some of my notable frontend/UI projects:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=scriptkkiddie&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=scriptkkiddie&theme=dark&type=png" alt="Streak Stats" />
+</p>
