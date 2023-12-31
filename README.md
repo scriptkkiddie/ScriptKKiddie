@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm ScriptKkiddie, a passionate developer and member of the [@hackers-collective](https://github.com/hackers-collective) community. Welcome to my GitHub profile!
+I'm ScriptKkiddie, a passionate developer. Welcome to my GitHub profile!
 
 ## 🌱 About Me
 
@@ -10,9 +10,7 @@ I love building exciting projects and exploring new technologies. Currently, I'm
 
 Here are some of my notable frontend/UI projects:
 
-- [Instagram Clone](https://clone-x.shobhitsharma.net/Instagram/): A front-end project that replicates the popular social media platform, Instagram. Explore the project to see the beautiful user interface and interactive features.
-
-- [Crunchbase Clone](https://clone-x.shobhitsharma.net/Crunchbase/): A front-end project that mimics the functionality of Crunchbase, providing information about various startups and companies. Dive into the project to explore the sleek design and comprehensive data.
+_will update soon_
 
 ## 📫 Connect with Me
 
